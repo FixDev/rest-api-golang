@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/fixdev/go-gin-gorm/models"
+	"github.com/fixdev/rest-api-golang/models"
 	"github.com/gin-gonic/gin"
 )
 
